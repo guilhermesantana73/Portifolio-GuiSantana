@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* style.css ou index.css */
+html {
+  overflow: hidden;
+}
+
+body {
+    background: #E3E3E3;
+}
+
+a {
+    color: #9d1717;
+}
